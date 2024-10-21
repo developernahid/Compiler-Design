@@ -1,0 +1,20 @@
+Hello!!
+ Welcome
+ to
+ CPP
+Let's
+ play
+ with
+ file
+ handling
+ system
+ with
+ C++.
+You
+ can
+ do
+ everything
+ whatever
+ you
+ really
+ want....

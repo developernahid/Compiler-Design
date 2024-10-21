@@ -1,0 +1,6 @@
+Hello
+int auto
++ * 
+nahid
+/ this
+float
